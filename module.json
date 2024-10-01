@@ -2,10 +2,10 @@
     "id": "firearmProperties",
     "title": "Firearms",
     "description": "Adds Firearm Proficiences",
-    "version": "0.2",
+    "version": "1.0.0",
     "compatibility": {
-        "minimum": 10,
-        "verified": "10.291"
+        "minimum": 12,
+        "verified": "12"
     },
     "url": "https://github.com/goldenfriend/Firearm-Module-5e",
     "manifest": "https://raw.github.com/goldenfriend/Firearm-Module-5e/main/module.json", 
