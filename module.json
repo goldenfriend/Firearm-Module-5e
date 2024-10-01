@@ -1,0 +1,20 @@
+{
+    "id": "firearmProperties",
+    "title": "Firearms",
+    "description": "Adds Firearm Proficiences",
+    "version": "0.2",
+    "compatibility": {
+        "minimum": 10,
+        "verified": "10.291"
+    },
+    "url": "https://github.com/goldenfriend/Firearm-Module-5e",
+    "manifest": "https://raw.github.com/goldenfriend/Firearm-Module-5e/main/module.json", 
+    "download": "https://github.com/goldenfriend/Firearm-Module-5e/releases/download/build/Bloodborne_Module.zip", 
+    "system": ["dnd5e"],
+    "scripts": ["firearmProperties.js"],
+    "authors": [
+        {
+            "name": "goldenfriend"
+        }
+    ]
+}
