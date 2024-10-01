@@ -1,0 +1,1 @@
+A very simple firearm module for D&D 5e
