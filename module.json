@@ -9,7 +9,7 @@
     },
     "url": "https://github.com/goldenfriend/Firearm-Module-5e",
     "manifest": "https://raw.github.com/goldenfriend/Firearm-Module-5e/main/module.json", 
-    "download": "https://github.com/goldenfriend/Firearm-Module-5e/releases/download/build/Bloodborne_Module.zip", 
+    "download": "https://github.com/goldenfriend/Firearm-Module-5e/releases/download/build/Firearm-Module-5e.zip", 
     "system": ["dnd5e"],
     "scripts": ["firearmProperties.js"],
     "authors": [
